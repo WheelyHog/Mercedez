@@ -173,3 +173,35 @@ body {
 .interior-wrapper-img {
   width: 330px;
 }
+
+.slider-wrapper,
+.navigation{
+  margin-top: 75px;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.navigation{
+ flex-direction: column;
+ justify-content: center;
+ margin-top: 25px;
+}
+
+.text-left,
+.text-right{
+  width: 255px;
+}
+.navigation-arrows,
+.navigation-text{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 60px;
+}
+.navigation-text{
+  margin-top: 150px;
+}
+.navigation-text p{
+  margin-bottom: 20px;
+}
