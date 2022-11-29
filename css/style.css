@@ -33,7 +33,7 @@ body {
 }
 
 .banner {
-  background: url("./images/11.png");
+  background: url("../images/11.png");
   height: 800px;
   background-repeat: no-repeat;
   text-align: center;
